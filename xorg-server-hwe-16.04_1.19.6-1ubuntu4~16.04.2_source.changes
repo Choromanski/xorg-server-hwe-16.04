@@ -1,0 +1,57 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Mon, 10 Sep 2018 17:49:06 -0400
+Source: xorg-server-hwe-16.04
+Binary: xserver-xorg-core-hwe-16.04 xserver-xorg-dev-hwe-16.04 xserver-xephyr-hwe-16.04 xmir-hwe-16.04 xorg-server-source-hwe-16.04 xwayland-hwe-16.04 xserver-xorg-legacy-hwe-16.04
+Architecture: source
+Version: 2:1.19.6-1ubuntu4~16.04.2
+Distribution: xenial
+Urgency: medium
+Maintainer: Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>
+Changed-By: Brian Choromanski <BrianChoromanski@gmail.com>
+Description:
+ xmir-hwe-16.04 - Xmir X server
+ xorg-server-source-hwe-16.04 - Xorg X server - source files
+ xserver-xephyr-hwe-16.04 - nested X server
+ xserver-xorg-core-hwe-16.04 - Xorg X server - core server
+ xserver-xorg-dev-hwe-16.04 - Xorg X server - development files
+ xserver-xorg-legacy-hwe-16.04 - setuid root Xorg server wrapper
+ xwayland-hwe-16.04 - Xwayland X server
+Changes:
+ xorg-server-hwe-16.04 (2:1.19.6-1ubuntu4~16.04.2) UNRELEASED; urgency=medium
+ .
+   * Non-maintainer upload.
+   * Patch for xorg-server that resolves issue with cursor being confined when using --scale parameter on xrandr
+Checksums-Sha1:
+ 058741b572c7679e31715f8685629475aa4fe41d 4986 xorg-server-hwe-16.04_1.19.6-1ubuntu4~16.04.2.dsc
+ f58b318bd17fe3af41ebf32d5a22da5dc667009e 8402365 xorg-server-hwe-16.04_1.19.6.orig.tar.gz
+ d151ec9b92b85628fde12b4badfb48a00addd457 286483 xorg-server-hwe-16.04_1.19.6-1ubuntu4~16.04.2.diff.gz
+Checksums-Sha256:
+ 6c18e458f331dce1a612bf9028166c3f8c8b08d15f7953274897d884516e776a 4986 xorg-server-hwe-16.04_1.19.6-1ubuntu4~16.04.2.dsc
+ 3c0e4a354a6b1d5d357b121357946ee8ffdb2f52158b2e63e105be9cef013168 8402365 xorg-server-hwe-16.04_1.19.6.orig.tar.gz
+ ad120d183e1338c3cd4dbd4a7b5f1f9484f1b147f1c2c2a7ff18961b824cb596 286483 xorg-server-hwe-16.04_1.19.6-1ubuntu4~16.04.2.diff.gz
+Files:
+ ff688d1fe3f92beffe3e9df5965e34db 4986 x11 optional xorg-server-hwe-16.04_1.19.6-1ubuntu4~16.04.2.dsc
+ ada013becbe850b92e2a8433dfb2cfe6 8402365 x11 optional xorg-server-hwe-16.04_1.19.6.orig.tar.gz
+ 40b68e46e413233eacea556899dd37c9 286483 x11 optional xorg-server-hwe-16.04_1.19.6-1ubuntu4~16.04.2.diff.gz
+Original-Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJblucHAAoJEEwCYa9nuJy8rNUP/2cvoK7ktNb3FAYtzARxA+Iv
+MYmzR+8yCzh6QtdlutktE6a31EG/o0onUM6J6YizU+6dZqC4hZEEFfBNcbsw79yk
+iNL/UjtzVjyuRJ5ggfsziloIk/WG40hALvqxenYH3Qc+MUa1bqwwUJ7oUHqKnLvl
+k7dporsIYXpUhTQOJv3mXXZParyz7pb9SXJBT9mP/bWM1605RwTW90ZEui5zA6ix
+cPzGWAP134Br2JqAJYBR7BQCtoX+d9uVhMJ0ir2if/uXxC14WkUCWL4SpXraWCRN
+nNg9m2bCF+5vr7IzcZAGhEy+THHzcrZqzqbaRMmFWn+PkHB9NRlO4/9HTY/N0HA7
+r9yqpmp3zQaiGwfmbTCrG6ehzyGm40QPYJz4HI2qidCp59/9vVHjCzAV8FqYPuyt
+1lfJy5qeB1WjrCEviVveWGN4K6Q0HN3NaQlKXhwuhACYVQLG7SHpwPKUhUgrotOM
+4NhTUauRNxlykBa4Urupn3oyE7/oo3nj/PuN6hrVfBST9TJjhjOVseBbnmuX1hE5
+Ey8lrVid1gzIHG1wzmlJfftYJfb2iZ3mmnpmS0GIc4ZgMyKH438ltSJ98tEdkNSA
+HFoJjVxu52t22fqGxtz90ncMdFhkKLhEYw7jDNjRAYbuDjphkJZUNeFo7Zsvge/k
+p6rN8nwKVokObDzUJLNv
+=Ect9
+-----END PGP SIGNATURE-----

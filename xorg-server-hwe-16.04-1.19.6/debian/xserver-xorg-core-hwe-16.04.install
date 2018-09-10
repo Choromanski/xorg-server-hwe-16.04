@@ -1,0 +1,13 @@
+usr/lib/xorg/modules	usr/lib/xorg
+usr/bin/Xorg	usr/bin
+usr/bin/X		usr/bin
+usr/share/man/man1/Xorg.1	usr/share/man/man1
+usr/share/man/man4		usr/share/man/
+usr/share/man/man5/xorg.conf.5	usr/share/man/man5
+usr/share/man/man5/xorg.conf.d.5	usr/share/man/man5
+usr/bin/cvt	usr/bin
+usr/bin/gtf	usr/bin
+usr/share/man/man1/cvt.1	usr/share/man/man1
+usr/share/man/man1/gtf.1	usr/share/man/man1
+usr/share/X11/xorg.conf.d	usr/share/X11/
+usr/lib/xorg/Xorg	usr/lib/xorg
